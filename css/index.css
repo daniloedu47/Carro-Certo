@@ -1,0 +1,25 @@
+nav ul{
+    display: inline-flex;
+    list-style-type: none;  /* Remove as bolinhas da lista */
+
+}
+
+nav ul li{
+    padding: 20px;
+    font-size: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    
+}
+nav ul li a{
+    color: rgb(0, 0, 0);  /* Muda a cor do texto para branco */
+    text-decoration: none;
+
+}
+
+
+header{
+    background-color: #d0353b;
+     display: inline-flex;
+     width: 100%;
+}
